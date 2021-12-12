@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.ed59b21f.chunk.css",
+    "main.js": "/tictactoe/static/js/main.f39736fe.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.f39736fe.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.8d8a4d81.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.8d8a4d81.js.map",
+    "static/js/2.5bafb0d0.chunk.js": "/tictactoe/static/js/2.5bafb0d0.chunk.js",
+    "static/js/2.5bafb0d0.chunk.js.map": "/tictactoe/static/js/2.5bafb0d0.chunk.js.map",
+    "static/js/3.4e2658c6.chunk.js": "/tictactoe/static/js/3.4e2658c6.chunk.js",
+    "static/js/3.4e2658c6.chunk.js.map": "/tictactoe/static/js/3.4e2658c6.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "static/css/main.ed59b21f.chunk.css.map": "/tictactoe/static/css/main.ed59b21f.chunk.css.map",
+    "static/js/2.5bafb0d0.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.5bafb0d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d8a4d81.js",
+    "static/js/2.5bafb0d0.chunk.js",
+    "static/css/main.ed59b21f.chunk.css",
+    "static/js/main.f39736fe.chunk.js"
+  ]
+}
